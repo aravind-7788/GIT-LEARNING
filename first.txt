@@ -1,5 +1,7 @@
 adding a first file to local repo
 
-added second line in branch child
+second line in branch child
 
 added thir line
+
+fourth line
